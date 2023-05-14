@@ -1,0 +1,35 @@
+.us{
+    left: 0.9rem;
+}
+
+#user{
+    margin-left: 0rem;
+}
+
+.pas, .us {
+    font-size: 20px;
+    position: relative;
+    top: 0rem;
+}
+
+span {
+    text-align: center;
+    padding-top: 4rem;
+    font-family: 'Roboto Slab', serif;
+}
+
+label {
+    display: block;
+    margin: 3rem 0;
+}
+
+body {
+    color: white;
+    background-color: #211e1e;
+    padding: 0px;
+    margin: 0px;
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+}
+
